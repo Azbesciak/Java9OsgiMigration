@@ -8,9 +8,12 @@
 buildscript {
   repositories {
     mavenCentral()
+    maven {
+      url 'https://bndtools.ci.cloudbees.com/job/bnd.master/lastSuccessfulBuild/artifact/dist/bundles'
+    }
   }
   dependencies {
-    classpath bnd_plugin
+    classpath 'biz.aQute.bnd:biz.aQute.bnd.gradle:+'
   }
 }
 
