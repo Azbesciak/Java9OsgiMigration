@@ -1,8 +1,7 @@
 # Java9OsgiMigration
 Shows the problem with migration to java 9
 
-#### Eclipse Oxygen.2 December
- ![Eclipse OK][eclipse]
+#### Eclipse Oxygen.3 March
+ ![Required version problem][eclipse]
 
-[intellij]: https://raw.githubusercontent.com/Azbesciak/BrokenOSGiIntellij/master/screenshots/intellij.png "Intellij fail"
-[eclipse]: https://raw.githubusercontent.com/Azbesciak/BrokenOSGiIntellij/master/screenshots/eclipse.png "Eclipse OK"
+[eclipse]: https://raw.githubusercontent.com/Azbesciak/BrokenOSGiIntellij/master/screenshots/OSGI-problems.png "Eclipse OK"
